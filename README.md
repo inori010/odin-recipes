@@ -1,4 +1,4 @@
-This project is a website detailing a recipe.
+This project is a website detailing recipes.
 
 Skills shown:
 - General Structure of .html file
