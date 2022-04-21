@@ -15,3 +15,16 @@
 .lasagna {
     color: orange;
 }
+
+.lasagna-background {
+    background: rgb(2,0,36);
+    background: linear-gradient(158deg, rgba(2,0,36,1) 0%, rgba(172,38,255,1) 0%, rgba(221,41,41,1) 100%);
+}
+
+.lasagna-background ul {
+    color: white;
+}
+
+.lasagna-background p {
+    color: white;
+}
